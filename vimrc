@@ -69,7 +69,7 @@ end
 
 filetype plugin indent on     " required!
 syntax enable
-colorscheme jc
+" colorscheme jc
 runtime macros/matchit.vim
 let g:EasyMotion_leader_key = '<Space>'
 
@@ -453,7 +453,7 @@ set nocursorline
 syntax sync minlines=256
 
 " Line numbers
-set relativenumber
+set number
 "}}}
 
 "Fugitive (Git) in status line
