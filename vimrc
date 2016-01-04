@@ -440,7 +440,7 @@ set nohidden
 set shortmess+=filmnrxoOt
 set viewoptions=folds,options,cursor,unix,slash
 set virtualedit=onemore
-set shell=zsh\ --login
+set shell=/bin/bash
 
 "Spaces, not tabs
 set shiftwidth=4
